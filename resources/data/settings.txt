@@ -1,7 +1,7 @@
 Window Settings:
 Resolution:
-Width:	960
-Height:	960
+Width:	1280
+Height:	720
 FullScreen:	false
 StretchToFit:	true
 Audio Settings:
