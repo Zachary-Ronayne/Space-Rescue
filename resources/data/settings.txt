@@ -1,0 +1,18 @@
+Window Settings:
+Resolution:
+Width:	960
+Height:	960
+FullScreen:	false
+StretchToFit:	true
+Audio Settings:
+MasterVolume:	0.6
+MusicVolume:	0.7
+EffectsVolume:	0.75
+Controls:
+MoveLeft:	37
+MoveRight:	39
+Jump:	38
+Duck:	40
+Attack:	81
+Use:	87
+Pause:	69
